@@ -98,7 +98,7 @@ Toute la syntaxe peut être trouvée [ici](https://daringfireball.net/projects/m
 | Bloc de code/ Mise en évidence de la syntaxe  | \`\`\`insérez du code\`\`\`  |  <a href="#section1">Hey, lisez la note sous ce tableau s'il vous plaît.  |
 | Titres  | \#, \##, \###, \####, \#####, \###### (de h1 à h6)  |  <h3>C'est un titre h3</h3> |
 | Barré  | \~~Insérez du texte ici\~~  | ~~Je suis mort~~  |
-| Tableau  | \| Les tables   \|      sont      \|  Cool \| \|\----------\|\:\-------------\:\|------\:\| \| col 1 est\| alignée à gauche \| 200€ \| | ![](http://i.imgur.com/EItt7mh.png) |
+| Tableau  | \| Les tables   \|      sont      \|  Cool \| \|\----------\|\:\-------------\ :\| ------\ :\| \| col 1 est\| alignée à gauche \| 200€ \| | ![](https://github.com/thierry-laval/archives/blob/master/images/tableau.png) |
 
  <p id="section1">
 
