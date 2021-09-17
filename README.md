@@ -41,7 +41,7 @@ Selon Wikipedia :
 
 *Il n'y a pas de standard Markdown clairement défini. Cela a conduit à une fragmentation étant donné que les différents fournisseurs écrivent leurs propres variantes du langage pour corriger les défauts ou ajouter des fonctionnalités manquantes... Une liste des versions de Markdown est disponible [ici](https://github.com/jgm/CommonMark/wiki/Markdown-Flavors).*
 
-Pour l'instant, ce guide se concentre principalement la version Markdown de GitHub.
+Pour l'instant, ce guide se concentre principalement sur la version Markdown de GitHub.
 
 ## Pourquoi utiliser le Markdown ?
 
@@ -98,7 +98,7 @@ Toute la syntaxe peut être trouvée [ici](https://daringfireball.net/projects/m
 | Bloc de code/ Mise en évidence de la syntaxe  | \`\`\`insérez du code\`\`\`  |  <a href="#section1">Hey, lisez la note sous ce tableau s'il vous plaît.  |
 | Titres  | \#, \##, \###, \####, \#####, \###### (de h1 à h6)  |  <h3>C'est un titre h3</h3> |
 | Barré  | \~~Insérez du texte ici\~~  | ~~Je suis mort~~  |
-| Tableau  | \| Tables   \|      Are      \|  Cool \| \|\----------\|\:\-------------\:\|------\:\| \| col 1 is\|  left-aligned \| $1600 \| | ![](http://i.imgur.com/EItt7mh.png) |
+| Tableau  | \| Les tables   \|      sont      \|  Cool \| \|\----------\|\:\-------------\:\|------\:\| \| col 1 est\| alignée à gauche \| 200€ \| | ![](http://i.imgur.com/EItt7mh.png) |
 
  <p id="section1">
 
