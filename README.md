@@ -12,6 +12,7 @@
 ## 📎 Projet 21 - Tutoriel Markdown
 
 ![left 100%](http://i.imgur.com/IMTN5cy.png)
+
 _`Début du projet le 20/04/2020`_
 
 Le projet 21 consiste à apprendre les bases du Markdown.
