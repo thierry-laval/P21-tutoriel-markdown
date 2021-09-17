@@ -51,8 +51,10 @@ Parce que c'est :
 * **PROPRE** : La syntaxe et le rendu sont tous deux clairs, ne font pas mal aux yeux et sont simples à gérer.
 * **FLEXIBLE** : Avec un peu de configuration, votre texte sera traduit sur toutes les plateformes, sera modifiable dans tout logiciel d'édition et convertible dans un large choix de formats.
 
-**En bref**, les utilisateurs réguliers le trouveront utile dans tous les cas, en particulier quand vous avez besoin de quelque chose de mieux que du texte brut mais de moins fonctionnel que Microsoft Word.  
-**Pour les développeurs**, si vous êtes trop paresseux pour écrire du code HTML, vous adorerez le Markdown.  
+**En bref**, les utilisateurs réguliers le trouveront utile dans tous les cas, en particulier quand vous avez besoin de quelque chose de mieux que du texte brut mais de moins fonctionnel que Microsoft Word.
+
+**Pour les développeurs**, si vous êtes trop paresseux pour écrire du code HTML, vous adorerez le Markdown.
+
 **De plus**, **Github** et beaucoup d'autres sites privilégient le Markdown pour le fichier readme des projets. Cela signifie que vous allez rencontrer le Markdown d'une façon ou d'une autre.
 
 <div id='tools'/>
@@ -148,6 +150,16 @@ Ces caractéristiques dépendent de la version Markdown.
 | Markdown        | Visual Studio Code |
 |                 | Git/GitHub         |
 
+***N'hésitez pas à contribuer, en ouvrant une issue.***
+
+#### Merci à tous
+
 ***
 
 &hearts;&nbsp;&nbsp;&nbsp;&nbsp;Love Markdown
+
+<span style="font-family:Papyrus; font-size:4em;">FAN DE GITHUB !</span>
+
+<!--[This is an image](https://myoctocat.com/assets/images/base-octocat.svg)-->
+
+<a href="url"><img src="https://myoctocat.com/assets/images/base-octocat.svg" height="300"></a>
