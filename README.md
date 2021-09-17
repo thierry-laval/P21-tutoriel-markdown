@@ -104,11 +104,11 @@ Toute la syntaxe peut être trouvée [ici](https://daringfireball.net/projects/m
 
  Note : Les **notes de pied de page** ne s'affichent pas correctement dans les tableaux (et la prévisualisation GitHub), mais cela ressemble à quelque chose comme ceci :
 
- ![](http://i.imgur.com/pmeBr28.png)
+ ![](https://github.com/thierry-laval/archives/blob/master/images/p21-hahaha.png)
 
 C'est la même chose pour les **blocs de code/mise en évidence de la syntaxe**. Cela ressemble à ce que l'on voit sur cette image :
 
-![](http://i.imgur.com/z8KrxAz.png).</p>
+![](https://github.com/thierry-laval/archives/blob/master/images/p21-button.png).</p>
 
 Ces caractéristiques dépendent de la version Markdown.
 
