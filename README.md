@@ -23,6 +23,7 @@ Table des matières
  2. [Pourquoi utiliser le Markdown?](#why)
  3. [Outils pour le Markdown](#tools)
  4. [La syntaxe du Markdown](#syntax)
+ 5. [L'utilisation du HTML dans le Markdown](#html)
 
 ***
 
@@ -73,6 +74,8 @@ Comme mentionné ci-dessus, tous les éditeurs peuvent être utilisés pour édi
 * **[*MarkdownPad*](http://markdownpad.com/)** : le meilleur pour Windows.
 * **[*Remarkable*](https://remarkableapp.github.io/)** : le meilleur pour Linux.
 * **[*GITBOOK*](http://www.gitbook.com/)** : GitBook est un outil de publication moderne qui simplifie la rédaction et la collaboration. Il supporte le Markdown et entretient une relation proche avec notre bien-aimé Github.
+* **[*Générateur de table*](https://www.tablesgenerator.com/)** : L'éditeur est proche du principe WYSIWYG (What You See Is What You Got), c'est-à-dire que le tableau affiché dans l'éditeur doit ressembler au tableau final.
+* **[*S'entrainer en ligne*](https://www.markdowntutorial.com/)** : Si vous avez dix minutes, vous pouvez apprendre Markdown ! Dans chaque leçon, une introduction à un seul concept vous sera présenté. Ensuite, on vous demandera de compléter plusieurs exercices avec ces nouvelles connaissances.
 
 <div id='syntax'/>
 
@@ -112,11 +115,18 @@ C'est la même chose pour les **blocs de code/mise en évidence de la syntaxe**.
 
 Ces caractéristiques dépendent de la version Markdown.
 
+
+<div id='html'/>
+
+## L'utilisation du HTML dans le Markdown
+
+Vous pouvez utiliser le language html et css dans le Markdown. Par contre le css ne sera pas interprété par GitHub.
+
 ## Notes utiles
 
 * Le Markdown vous permet d'utiliser des échappements antislash pour générer des caractères littéraux qui
   sinon auraient un sens particulier avec la syntaxe de formatage Markdown. Un des caractères antislash d'échappement est :
- `Donc ? \*Ce\* n'est plus en italique mais c'este entouré par des astérisques littéraux.`  
+ `Donc ? \*Ce\* n'est plus en italique mais c'este entouré par des astérisques littéraux.`
 
 * Les vidéos Youtube nécessitent un peu plus de travail.
   Elles ne peuvent pas être ajoutées directement mais vous pouvez ajouter une image avec un lien vers la vidéo comme ceci :
@@ -132,7 +142,7 @@ Ces caractéristiques dépendent de la version Markdown.
 * Les notes de pied de page et mise en évidence de la syntaxe ne font pas partie du Markdown original et ne sont supportés que par certaines versions de Markdown (Information de [Sean Brody](https://goo.gl/ASZwEn))
 * Toute URL (comme http://www.github.com/) sera automatiquement convertie en un lien cliquable.
 * Le support de tableau Markdown est conçu pour gérer la plupart des tableaux pour la majorité des gens ; cela n'englobe pas tous les tableaux pour tout le monde. Si vous avez besoin de tableaux complexes, vous devrez les créer à la main ou avec un outil spécifiquement conçu pour votre format de sortie.
-* En utilisant des images et des liens, vous pouvez créer des ressources colorées au moment du rendu. Des badges comme ceux-ci sont des exemples typiques que vous pouvez trouver partout sur Github  
+* En utilisant des images et des liens, vous pouvez créer des ressources colorées au moment du rendu. Des badges comme ceux-ci sont des exemples typiques que vous pouvez trouver partout sur Github
 
 [![Java](https://img.shields.io/badge/Java-%23FFac45.svg?&style=for-the-badge&logo=java&logoColor=white&color=yellow)](https://github.com/)  [![HTML](https://img.shields.io/badge/HTML-%23FFac45.svg?&style=for-the-badge&logo=html5&logoColor=white&color=orange)](https://github.com/)
 [![CSS](https://img.shields.io/badge/CSS-%23FFac45.svg?&style=for-the-badge&logo=css3&logoColor=white&color=blue)](https://github.com/)
@@ -140,7 +150,7 @@ Ces caractéristiques dépendent de la version Markdown.
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
 [![Github](http://img.shields.io/badge/github-%231877F2.svg?&style=for-the-badge&logo=github&logoColor=white&color=black)](https://github.com/)
 
-( obtenir des badges [ici](https://shields.io/) )
+( obtenir des badges [shields.io](https://shields.io/), [rzashakeri](https://github.com/rzashakeri/beautify-github-profile), [ileriayo](https://ileriayo.github.io/markdown-badges/) )
 
 ***
 
@@ -164,3 +174,7 @@ Ces caractéristiques dépendent de la version Markdown.
 <!--[This is an image](https://myoctocat.com/assets/images/base-octocat.svg)-->
 
 <a href="url"><img src="https://myoctocat.com/assets/images/base-octocat.svg" height="300"></a>
+
+::: details Titre
+Texte
+:::
