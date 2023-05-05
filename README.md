@@ -1,11 +1,12 @@
-# ![left 100%](https://raw.githubusercontent.com/thierry-laval/archives/master/images/logo-portfolio.png)
+# ![left 100%](https://raw.githubusercontent.com/thierry-laval/archives/master/images/logo-portfolio.png "Un bien beau logo !")
 
 ## Auteur
 
-👤**Thierry LAVAL** [🇫🇷 Contactez moi 🇬🇧](<contact@thierrylaval.dev>)
+👤 &nbsp; **Thierry LAVAL** [🇫🇷 Contactez moi 🇬🇧](<contact@thierrylaval.dev>)
 
 * Github: [@Thierry Laval](https://github.com/thierry-laval)
 * LinkedIn: [@Thierry Laval](https://www.linkedin.com/in/thierry-laval)
+* Visitez ==> 🏠 [Site Web](https://thierrylaval.dev)
 
 ***
 
@@ -167,14 +168,26 @@ Vous pouvez utiliser le language html et css dans le Markdown. Par contre le css
 
 ***
 
-&hearts;&nbsp;&nbsp;&nbsp;&nbsp;Love Markdown
+### 📝 &nbsp; License
+
+Copyright © 2022 [Thierry Laval](https://thierrylaval.dev)
+
+Ce projet est sous licence [MIT](LICENCE).
+
+[Voir mon travail](https://github.com/thierry-laval)
+
+[Créer un bon template](https://github.com/thierry-laval/P22-template-pour-un-readme)
+
+***
+
+### &hearts;&nbsp;&nbsp;&nbsp;&nbsp;Love Markdown
+
+Donnez une ⭐️ &nbsp; si ce projet vous a plu !
 
 <span style="font-family:Papyrus; font-size:4em;">FAN DE GITHUB !</span>
 
-<!--[This is an image](https://myoctocat.com/assets/images/base-octocat.svg)-->
+<!--[This is an image](https://myoctocat.com/)-->
 
-<a href="url"><img src="https://myoctocat.com/assets/images/base-octocat.svg" height="300"></a>
+<img src="/images/octocat.png" height="300" />
 
-::: details Titre
-Texte
-:::
+**[⬆ Retour en haut](#auteur)**
